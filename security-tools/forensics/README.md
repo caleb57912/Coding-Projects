@@ -1,7 +1,7 @@
 # Forensics
 
-Triage, evidence handling and timeline tooling.
+Triage, evidence handling, hashing and timeline tooling.
 
 | Project | What it does | Status |
 | --- | --- | --- |
-| *None yet* | | |
+| [hash-cracker](hash-cracker) | Dictionary / brute-force recovery of password hashes | 🔜 Planned |

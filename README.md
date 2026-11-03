@@ -35,7 +35,13 @@ Projects are grouped into themes. Each theme has its own folder, its own index a
 
 | Project | Theme | What it does | Status |
 | --- | --- | --- | --- |
-| *None yet* | | | |
+| [port-scanner](security-tools/recon/port-scanner) | Security Tools · recon | TCP port scanner on raw sockets | 🚧 Building |
+| [subdomain-enumerator](security-tools/recon/subdomain-enumerator) | Security Tools · recon | Finds live subdomains from a wordlist | 🔜 Planned |
+| [hash-cracker](security-tools/forensics/hash-cracker) | Security Tools · forensics | Dictionary / brute-force hash recovery | 🔜 Planned |
+| [osint-web-scraper](security-tools/recon/osint-web-scraper) | Security Tools · recon | Collects OSINT from public pages | 🔜 Planned |
+| [nmap-automapper](security-tools/recon/nmap-automapper) | Security Tools · recon | Drives Nmap across targets, reports results | 🔜 Planned |
+
+See the [Security Tools roadmap](security-tools/ROADMAP.md) for build order and the library map.
 
 ## 📐 Project standards
 
