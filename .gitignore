@@ -1,0 +1,14 @@
+*.pem
+*.key
+*.ovpn
+*.lic
+.env
+*secret*
+*.bak
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
